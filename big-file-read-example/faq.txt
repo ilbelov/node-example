@@ -1,0 +1,3 @@
+1) run create-big-file
+2) run read-big-file
+3) connect to server: curl -i localhost:8000
